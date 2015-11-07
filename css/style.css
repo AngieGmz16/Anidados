@@ -1,0 +1,51 @@
+.color1 {
+	background:red;
+	position: relative;
+	left:0;
+	top:0;	
+	width: 200px; 
+	height: 200px;
+	margin: 10px;
+}
+.color2 {
+	background:purple;
+	position:absolute;
+	width: 100px; 
+	height: 100px;
+	left: 50px;
+	top:50px;
+}
+.color3 {
+	background:yellow;
+	position:absolute;
+	bottom:50;
+	width: 50px; 
+	height: 50px;
+	left: 50px;
+	top:50px;
+}
+.color4 {
+	background:blue;
+	position:relative;
+	left:0;
+	top:0;	
+	width: 200px; 
+	height: 200px;
+	margin: 10px;
+}
+.color5 {
+	background:green;
+	position:absolute;
+	left: 50px;
+	top:50px;
+	width: 100px; 
+	height: 100px;
+}
+.color6 {
+	background:black;
+	position:relative;
+	left:0;
+	bottom:0;
+	width: 50px; 
+	height: 50px;
+}
